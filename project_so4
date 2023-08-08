@@ -1,1 +1,6 @@
+numbers = '010-12345-23456'
 
+def change_num(numbers):
+    answer = numbers.replace(numbers[-5:], '#####')
+
+    return answer

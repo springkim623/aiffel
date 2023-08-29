@@ -21,5 +21,5 @@ PRT(PeerReviewTemplate) (H2)
 참고 링크 및 코드 개선 (H2)
 모델을 구현할때 for문으로 하는 것이아닌 np.dot을 활용하여 더 코드를 간결하게 짤 수 있을 것 같습니다.
 ### 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
-https://velog.io/@skkumin/Linear-Regression-%EB%8B%A8%EC%88%9C-%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80-with-python 제가 보앗던 블로그입니다.
+https://velog.io/@skkumin/Linear-Regression-%EB%8B%A8%EC%88%9C-%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80-with-python 제가 정리할때 본 블로그입니다.
 ### 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
